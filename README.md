@@ -1,4 +1,4 @@
-# mygitcommits
+# my-git-commits
 
 ## feat: features 
 A new feature
