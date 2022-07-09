@@ -1,25 +1,35 @@
-# mygitcommits-guide
+# mygitcommits
 
-## feat: Features 
+## feat: features 
 A new feature
-## fix: Bug Fixes 
+
+## fix: bug Fixes 
 A bug fix
-## docs: Documentation 
+
+## docs: documentation 
 Documentation only changes
-## style: Styles 
+
+## style: styles 
 Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
-## refactor: Code 
+
+## refactor: code 
 Refactoring	A code change that neither fixes a bug nor adds a feature
-## perf: Performance 
+
+## perf: performance 
 Improvements	A code change that improves performance
-## test: Tests 
+
+## test: tests 
 Adding missing tests or correcting existing tests
+
 ## build: Builds 
 Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
-## ci: Continuous Integrations 
+
+## ci: continuous Integrations 
 Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
-## chore: Chores 
+
+## chore: chores 
 Other changes that don't modify src or test files
-## revert: Reverts 
+
+## revert: reverts 
 Reverts a previous commit
 
